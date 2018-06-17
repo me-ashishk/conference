@@ -1,0 +1,2 @@
+1. Add the DAL 
+2. Connect the view to the repo
