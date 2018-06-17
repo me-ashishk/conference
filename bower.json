@@ -1,0 +1,22 @@
+{
+  "name": "knowc",
+  "description": "conference knowledge sharing",
+  "main": "server.js",
+  "authors": [
+    "Ashish Kadam <ashish.kadam@varian.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
