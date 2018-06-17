@@ -1,0 +1,1 @@
+Conference app will be a new way of connecting and networking with people you meet at the anyconfernec you attend and maintain a log of informationt o share with your colleagues and friends for later followup.
